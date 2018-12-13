@@ -1,0 +1,4 @@
+header { text-align: center; padding: 5px; position: absolute; left: 0; right: 0; top: 0; z-index: 90; background-color: #FFF;  }
+
+/*logo*/
+#logo img { max-height: 40px; }

@@ -1,5 +1,6 @@
 import React from "react"
-import Logo from "../components/logo"
+import Logo from "../components/logo.js"
+import "../css/header.css"
 
 export default function Header() {
     return (
@@ -8,3 +9,4 @@ export default function Header() {
         </header>
     )
 }
+
